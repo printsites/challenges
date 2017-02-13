@@ -1,7 +1,7 @@
 /**
   In this project, we need to create a series of car objects defined in code.
   We don't want to create 1 car, we want to create a system for creating cars given
-  a set of customer specificatoins. Create a small program that outputs a final
+  a set of customer specifications. Create a small program that outputs a final
   car object for each order with methods that correspond to the customer demands, and that give us the
   full name of the customer, the customer's address, and the final purchase price
 
