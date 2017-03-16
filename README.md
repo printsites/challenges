@@ -1,4 +1,4 @@
-#Welcome to the PrintSites interviewing code challenge!
+# Welcome to the PrintSites interviewing code challenge!
 
 These various challenges exist to gain a better understanding of a prospective candidate's logical reasoning skills, grasp of programming fundamentals, and problem-solving.
 
@@ -17,17 +17,17 @@ Here's what we'll be evaluating you on:
 
 Your completed code is a starting point to have a discussion on your career (programming and non-programming background), your interests, and your career goals, all of which are more important than this programming challenge.
 
-##Challenges Overview
+## Challenges Overview
 
 Please complete the following projects. Specific instructions are located in comments in each file.
 
-###Javascript Car Factory
+### Javascript Car Factory
 
 See `create.js`
 
 Build a javascript powered car factory, that dynamically produces javascript car objects.
 
-###File Input
+### File Input
 
 See `input.py`
 
