@@ -4,7 +4,8 @@ These various challenges exist to gain a better understanding of a prospective c
 
 ## Challenges Overview
 
-There are 2 subsets of challenges, we'll let you know which we'd like you to work on. Specific instructions are located in comments in each file.
+There are 2 subsets of challenges, we'll let you know which we'd like you to work on. 
+Specific instructions are located in comments in each file or within a specific markdown file.
 
 We want to see what you can accomplish in about 2 hours with a text editor and Google.
 
@@ -32,3 +33,13 @@ Based on the given data, build a car object factory that dynamically produces ca
 See [file_input.py](conceptual/file_input.py)
 
 Read in some data, and give us some ways of finding certain rows.
+
+### Practical Challenges
+- Unlike our Conceptual Challenges, these **are** designed to test knowledge of the specifics of a language/framework.
+- Each challenge will have varying requirements that may or may not require a fully baked out program, unit tests, etc.
+
+#### CRUD App - PHP - Symfony
+
+See [crud_app_symfony.md](practical/crud_app_symfony.md)
+
+Develop a CRUD app that will allow you to work with Drivers and Cars.
